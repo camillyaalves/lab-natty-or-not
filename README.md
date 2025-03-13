@@ -13,7 +13,7 @@ Usei o "ChatGPT" para escrever a frase motivacional. O "D-ID" foi essencial para
 ## Resultados
 O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
-[MOTIVACIONAL](https://studio.d-id.com/share?id=4408077b767144539ef4175ec318a967&utm_source=copy)
+[VÍDEO MOTIVACIONAL](https://studio.d-id.com/share?id=3014da665d2b087d9fd2e0d96a24c078&utm_source=copy)
 
-## 💭 Reflexão
+## Reflexão
 Desenvolver esse projeto de forma gratuita na plataforma D-ID foi uma experiência incrível. As IAs Generativas me permitiram trabalhar de forma eficiente com uma restrição de 10 palavras para desenvolver o vídeo.
